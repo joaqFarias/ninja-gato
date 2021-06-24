@@ -1,7 +1,5 @@
 # ninja-gato
 
-Codigo: {
+Codigo: 
 
-este es = codigo
-
-}
+`este es = codigo`
